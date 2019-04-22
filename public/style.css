@@ -1,15 +1,36 @@
-body {
-  display: flex;
-  justify-content: center;
-}
-
 .bg-1 { 
   background-color: #1abc9c;
   color: #ffffff;
 }
 
-.nav-color {
-  color: black;
-  background-color: #1abc9c;
+.bg-2 {
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
 }
 
+.nav-color {
+  color:black;
+  background-color:white;
+}
+
+ul li {
+  padding-left: 20px;
+}
+
+/* nav {
+  margin: 5px;
+
+} */
+body {
+  padding-top:40px;
+}
+
+p {
+  width: 500px;
+  margin:0 auto;
+  padding: 20px;
+}
+
+.term {
+padding-top: 20px;
+}
