@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.bg-1 { 
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+
+.nav-color {
+  color: black;
+  background-color: #1abc9c;
+}
+
